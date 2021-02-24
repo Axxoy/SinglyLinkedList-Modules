@@ -1,7 +1,7 @@
 # SinglyLinkedList-Modules
 A simple implementation of Singly Linked Lists based on a real life example. Completed as a course assignment.
 
-This project is inspired by the possibility of technogical advancements impacting city architectures.
+This project is inspired by the possibility of technological advancements impacting city architectures.
 
 In this project I used the idea of a city operating in terms of modules. These modules would be similar to small communities of a city. And of course transportation between the modules would be handled by AI. This is just a brief summary of the idea behind the concept, now, I will explain the program itself.
 
